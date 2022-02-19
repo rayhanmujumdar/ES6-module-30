@@ -23,6 +23,18 @@ const lastName = "ahmed";
 const fullold = firstName + " " + lastName; //full pera and distrap code;
 // tampate style ES6;
 const fullMyName = `This person name is: ${firstName} ${lastName}`;//easyly handle no pera;
-
 console.log(fullMyName)
 
+
+
+//practice
+// let count = 4;
+// document.getElementById("extra").addEventListener("click",function(e){
+//     count++;
+//     console.log(count)
+//     const div = document.createElement("div");
+//     div.innerHTML = `<h3 class='friend-name'>Friend-${count}</h3>`//make a dynamic tamplete in javascript string added;
+//     const body = e.target.parentNode.parentNode;
+//     body.appendChild(div);
+//     console.log(e.target.parentNode.parentNode)
+// })
