@@ -14,6 +14,7 @@ const add3 = function (num1,num2){
 const add4 = (num1,num2) => {
     return num1 + num2;
 }
+// function call;
 const sum = add(25,25);
 const sum2 = add2(25,25);
 const sum3 = add3(25,25);
